@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Playback</string>
+    <string name="statusPlaceholder">No status.</string>
+    <string name="statusRecording">Recording.</string>
+    <string name="statusNotRecording">Not recording.</string>
+    <string name="uploadButtonLabel">Record</string>
+    <string name="pingLabel">Ping server</string>
+</resources>
